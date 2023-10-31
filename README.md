@@ -25,8 +25,8 @@ Here are some ideas to get you started:
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 <h2 style="text-align: center;">Обо мне</h2>
 <p>Привет! Меня зовут Александр.  
-  Я Data Scientist и аналитик с опытом работы в области анализа данных и разработки на Python.</p>   
-  Моя страсть - это работа с данными, выявление паттернов и корреляций, а также создание моделей для решения сложных задач.</p>
+  Я Data Scientist и аналитик с опытом работы в области анализа данных и разработки на Python.<br>   
+  Моя страсть - это работа с данными, выявление паттернов и корреляций, а также разработка моделей для решения сложных задач.<br>
 <h2 style="text-align: center;">Резюме</h2>
 
 <p>Желаемая должность: Data Scientist<br>
