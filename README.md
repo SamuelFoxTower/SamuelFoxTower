@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 <h3 style="text-align: center;">Опыт работы</h3>
 
-<h4 style="text-align: center;">Deep Learning School (продвинутый поток): Студент
+<h4 style="text-align: center;">Deep Learning School (продвинутый поток): Студент</h4>
 <p><font size=“5”>Сентябрь 2023 — настоящее время</font>
 <br>- Освоение более серьезной математической основы машинного и глубокого обучения
 <br>- Помощь другим студентам с помощью инструментов платформы Stepik с хорошим представлением и подробным описанием работ
