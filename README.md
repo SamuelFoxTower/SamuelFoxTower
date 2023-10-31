@@ -1,4 +1,4 @@
-### ![](https://komarev.com/ghpvc/?username=SamuelFoxTower&style=plastic&label=profile+views&color=darkgreen)
+### ![](https://komarev.com/ghpvc/?username=SamuelFoxTower&style=plastic&label=profile+views&color=dark-green)
 
 <!--
 **SamuelFoxTower/SamuelFoxTower** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
