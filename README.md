@@ -14,20 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Привет! Меня зовут Александр!  
-
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
-
-
 <!DOCTYPE html>
 <html lang="ru">
 <head>
   <meta charset="UTF-8">
-  <title>Профиль GitHub: SamuelFoxTower</title>
 </head>
 <body>
 
-<h1 style="text-align: center;">Профиль GitHub: SamuelFoxTower</h1>
+<h1 style="text-align: center;">Привет! Меня зовут Александр!</h1>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 
 <h2 style="text-align: center;">Резюме</h2>
 <p>Желаемая должность: Data Scientist<br>
@@ -52,7 +47,7 @@ Here are some ideas to get you started:
 
 <p>Курсы:<br>
 - WEB Парсинг на Python (Stepik, 2023)<br>
-- Специалист Data Science (Яндекс Практикум, 2023)<br> [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf)/[ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)
+- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
 - What is Data Science? (Coursera, 2022)<br>
 - Tools for Data Science (Coursera, 2022)</p>
 
