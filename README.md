@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ## Привет! Меня зовут Александр!  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer+%2F+Researcher" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
