@@ -41,30 +41,30 @@ Here are some ideas to get you started:
 <br>- Освоение более серьезной математической основы машинного и глубокого обучения
 <br>- Помощь другим студентам с помощью инструментов платформы Stepik с хорошим представлением и подробным описанием работ
 
-<h4 style="text-align: center;">Яндекс Практикум: Студент
-<p>Декабрь 2022 — Август 2023</h4>
+<h4 style="text-align: center;">Яндекс Практикум: Студент<br>
+Декабрь 2022 — Август 2023</h4>
 <br>- Выполнение проектов на реальных и синтетических данных, работа с Python (pandas, numpy, scikit-learn, matplotlib ...) и базовым SQL
 <br>- Опыт в области глубокого обучения (CV, NLP)
 <br>- Учебные проекты находятся в портфолио ниже, с описанием задач и моим вариантом решения
-<br>- В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных и построения моделей с высоким качеством</p>
+<br>- В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных и построения моделей с высоким качеством
 
-<h4 style="text-align: center;">IKEA: Store Equipment Coordinator
-<p>Июль 2019 — Август 2022</h4>
-- Координация поставок и использования торгового оборудования в магазине, в том числе внедрение новых систем и работа с поставщиками</p>
-- Активное участие в проектах IT департамента</p>
+<h4 style="text-align: center;">IKEA: Store Equipment Coordinator<br>
+Июль 2019 — Август 2022</h4>
+- Координация поставок и использования торгового оборудования в магазине, в том числе внедрение новых систем и работа с поставщиками<br>
+- Активное участие в проектах IT департамента<br>
 
 <h3 style="text-align: center;">Образование и Повышение квалификации</h3>
-<p>Среднее специальное: Ростовский-на-Дону строительный колледж<br>
-2017: Проектирование, строительство, монтаж, эксплуатация внутренних сантехустройств, вентиляции и кондиционирования воздуха</p>
+Среднее специальное: Ростовский-на-Дону строительный колледж<br>
+2017: Проектирование, строительство, монтаж, эксплуатация внутренних сантехустройств, вентиляции и кондиционирования воздуха<br>
 
 Курсы:<br>
-- WEB Парсинг на Python (Stepik, 2023) [RUS](https://stepik.org/cert/2041068) / [ENG](https://stepik.org/cert/2041068?lang=en)
+- WEB Парсинг на Python (Stepik, 2023) [RUS](https://stepik.org/cert/2041068) / [ENG](https://stepik.org/cert/2041068?lang=en)<br>
   - Скрапинг, обработка, анализ данных
-- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)
+- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
   - Data Science
-- What is Data Science? [(Coursera, 2022)](https://coursera.org/share/f8ce69265fa3daa54e5b056d427e49b4)
+- What is Data Science? [(Coursera, 2022)](https://coursera.org/share/f8ce69265fa3daa54e5b056d427e49b4)<br>
   - Data Science 
-- Tools for Data Science [(Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)
+- Tools for Data Science [(Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)<br>
   - Data Science
 
 <h3 style="text-align: center;">Ключевые навыки</h3>
