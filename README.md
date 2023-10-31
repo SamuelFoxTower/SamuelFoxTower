@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <p>Курсы:<br>
 - WEB Парсинг на Python (Stepik, 2023)<br>
-- Специалист Data Science (Яндекс Практикум, 2023)<br> ![RUS](./blob/main/certificate/Practicum_ru.pdf) / [ENG](./blob/main/certificate/Practicum_en.pdf)
+- Специалист Data Science (Яндекс Практикум, 2023)<br> [RUS](./blob/main/certificate/Practicum_ru.pdf) / [ENG](./blob/main/certificate/Practicum_en.pdf)
 - What is Data Science? (Coursera, 2022)<br>
 - Tools for Data Science (Coursera, 2022)</p>
 
