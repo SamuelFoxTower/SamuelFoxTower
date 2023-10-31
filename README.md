@@ -45,11 +45,11 @@ Here are some ideas to get you started:
 <p>Среднее специальное: Строительный колледж в Ростове-на-Дону<br>
 2017: Строительство, монтаж, эксплуатация внутренних сантехустройств, вентиляции и кондиционирования воздуха</p>
 
-<p>Курсы:<br>
-- WEB Парсинг на Python (Stepik, 2023)<br>
-- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
-- What is Data Science? (Coursera, 2022)<br>
-- Tools for Data Science (Coursera, 2022)</p>
+Курсы:<br>
+- WEB Парсинг на Python (Stepik, 2023)  
+- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)  
+- What is Data Science? (Coursera, 2022)  
+- Tools for Data Science (Coursera, 2022)
 
 <h3 style="text-align: center;">Ключевые навыки</h3>
 <p>Языки: Русский (родной), Английский (A2 - элементарный)<br>
