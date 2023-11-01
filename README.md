@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <body>
 
 <h1 style="text-align: center;">Профиль: SamuelFoxTower</h1>
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
+
 <h2 style="text-align: center;">Обо мне</h2>
 <p>Привет! Меня зовут Александр  
 <p>Я Data Scientist и аналитик с опытом работы в области анализа данных и разработки на Python   
