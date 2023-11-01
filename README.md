@@ -135,8 +135,8 @@ Here are some ideas to get you started:
     <td colspan="2">Тренировка</td>
   </tr>
   <tr>
-    <td><a href="ссылка на проект">Парсинг данных (обучение)</a></td>
-    <td>- Описание проекта</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Парсинг данных (обучение)</a></td>
+    <td>- Парсинг сайта интренет-магазина</td>
   </tr>
   <tr>
     <td><a href="ссылка на проект">Практика SQL (sql-ex.ru), Practicum</a></td>
