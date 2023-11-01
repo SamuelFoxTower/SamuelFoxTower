@@ -126,6 +126,9 @@ Here are some ideas to get you started:
     <td colspan="2">Регрессия</td>
   </tr>
   <tr>
+    <td colspan="2">Промышленность</td>
+  </tr>
+  <tr>
     <td><a href="ссылка на проект">Определение наиболее выгодного региона нефтедобычи</a></td>
     <td>- Описание проекта</td>
   </tr>
