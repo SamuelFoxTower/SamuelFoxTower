@@ -103,8 +103,8 @@ Here are some ideas to get you started:
     <td colspan="2"><font size="4">Телекоммуникации</font></td>
   </tr>
   <tr>
-    <td><a href="ссылка на проект">Прогноз оттока клиентов телеком компании</a></td>
-    <td>- Описание проекта</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании</a></td>
+    <td>- По персональным данным некоторых клиентов, информации о тарифе и договорах научиться прогнозировать отток клиентов</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS">Обучающий ноутбук решения задачи классификации оттока клиентов</a></td>
