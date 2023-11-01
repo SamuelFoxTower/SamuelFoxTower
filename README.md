@@ -93,7 +93,7 @@ Here are some ideas to get you started:
     <td colspan="2">Классификация</td>
   </tr>
   <tr>
-    <td colspan="2">Обработка текста</td>
+    <td colspan="2">Обработка текста с BERT</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments">Обучение модели классификации комментариев</a></td>
