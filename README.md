@@ -82,8 +82,6 @@ Here are some ideas to get you started:
 
 # Проекты
 
-### Категории проектов
-
 <table>
   <th>Машинное обучение</th>
   <tr>
