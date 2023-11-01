@@ -151,6 +151,7 @@ Here are some ideas to get you started:
 </table>
 
 
+
 <h3 style="text-align: center;">Дополнительная информация</h3>
 <p>Обо мне:<br>
 <pre>- Моя страсть — данные, выявление паттернов и корреляций
