@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 <h4 style="text-align: center;">Среднее специальное: Ростовский-на-Дону строительный колледж</h4><br>
 2017: Проектирование, строительство, монтаж, эксплуатация внутренних сантехустройств, вентиляции и кондиционирования воздуха<br>
 
-Курсы:<br>
+**Курсы**:<br>
 - WEB Парсинг на Python (Stepik, 2023) [RUS](https://stepik.org/cert/2041068) / [ENG](https://stepik.org/cert/2041068?lang=en)<br>
   - Скрапинг, обработка, анализ данных
 - Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
