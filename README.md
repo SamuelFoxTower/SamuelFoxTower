@@ -157,8 +157,8 @@ Here are some ideas to get you started:
 
 <h3 style="text-align: center;">Связь</h3>
 <p>📫 Для связи со мной:<br> 
-    - Почта: sasha33z@yandex.ru<br> 
-    - Telegram: https://t.me/lambda_y<br>
+    <p>- Почта: sasha33z@yandex.ru<br> 
+    - Telegram: https://t.me/lambda_y<br></p>
 <p>⚡ Открыт к сотрудничеству и новым проектам!
 
 </body>
