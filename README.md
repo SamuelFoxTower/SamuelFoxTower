@@ -93,13 +93,6 @@ Here are some ideas to get you started:
     <td colspan="2">Классификация</td>
   </tr>
   <tr>
-    <td colspan="2">Банковская сфера</td>
-  </tr>
-  <tr>
-    <td><a href="ссылка на проект">Прогноз оттока клиентов Банка</a></td>
-    <td>- Описание проекта.</td>
-  </tr>
-  <tr>
     <td colspan="2">Обработка текста</td>
   </tr>
   <tr>
