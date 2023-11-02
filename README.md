@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 </head>
 <body>
 
-<h1 style="text-align: center;">Профиль: SamuelFoxTower</h1>
+<h1 style="text-align: center;">Воробьев Александр</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 
