@@ -147,7 +147,11 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><a href="ссылка на проект">Статистика</a></td>
-    <td>- Описание проекта</td>
+    <td>- Typing...</td>
+  </tr>
+   <tr>
+    <td><a href="ссылка на проект">Алгоритмы</a></td>
+    <td>- Typing...</td>
   </tr>
 </table>
 
