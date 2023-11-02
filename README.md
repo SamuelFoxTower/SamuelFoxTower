@@ -70,9 +70,9 @@ Here are some ideas to get you started:
   - Data Science
 - WEB Парсинг на Python (Stepik, 2023) [RUS](https://stepik.org/cert/2041068) / [ENG](https://stepik.org/cert/2041068?lang=en)<br>
   - Скрапинг, обработка, анализ данных
-- What is Data Science? [(Coursera, 2022)](https://coursera.org/share/f8ce69265fa3daa54e5b056d427e49b4)<br>
+- What is Data Science? [(IBM, Coursera, 2022)](https://coursera.org/share/f8ce69265fa3daa54e5b056d427e49b4)<br>
   - Data Science 
-- Tools for Data Science [(Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)<br>
+- Tools for Data Science [(IBM, Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)<br>
   - Data Science
 
 <h3 style="text-align: center;">Ключевые навыки</h3>
