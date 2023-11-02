@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <h4 style="text-align: center;">Яндекс Практикум: Студент</h4>
 Декабрь 2022 — Август 2023</p>
 <pre>- Выполнение проектов на реальных и синтетических данных, 
-  работа с Python (pandas, numpy, scikit-learn, matplotlib ...), SQL
+  работа с Python (pandas, numpy, scikit-learn, torch, matplotlib ...), SQL
 - Опыт в области глубокого обучения (CV, NLP)
 - Учебные проекты находятся в портфолио ниже, с описанием задач и моим вариантом решения
 - В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных 
@@ -77,7 +77,7 @@ Here are some ideas to get you started:
 
 <h3 style="text-align: center;">Ключевые навыки</h3>
 <p>Языки: Русский (родной), Английский<br>
-Навыки: Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Git, Jupyter</p>
+Навыки: Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
 
 <h3 style="text-align: center;">Портфолио</h3>
 В моем портфолио на GitHub представлены проекты и их решения,<br> 
