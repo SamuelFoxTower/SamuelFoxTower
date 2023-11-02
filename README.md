@@ -151,7 +151,7 @@ Here are some ideas to get you started:
   </tr>
    <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Алгоритмы</a></td>
-    <td>- Быстрый разбор популярных алгоритмов на языке Python и решение LeetCode (In progress...)</td>
+    <td>- Быстрый разбор популярных алгоритмов на языке Python и решение LeetCode<br> (In progress...)</td>
   </tr>
 </table>
 
