@@ -140,14 +140,14 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><a href="ссылка на проект">Практика SQL (sql-ex.ru), Practicum</a></td>
-    <td>- In progress...</td>
+    <td>- (In progress...)</td>
   </tr>
   <tr>
     <td colspan="2">Обучающие cheat-sheets</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Статистика</a></td>
-    <td>- Краткие разборы статистических понятий и методов (In progress...)</td>
+    <td>- Краткие разборы статистических понятий и методов<br> (In progress...)</td>
   </tr>
    <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Алгоритмы</a></td>
