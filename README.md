@@ -146,12 +146,12 @@ Here are some ideas to get you started:
     <td colspan="2">Обучающие cheat-sheets</td>
   </tr>
   <tr>
-    <td><a href="ссылка на проект">Статистика</a></td>
-    <td>- In progress...</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Статистика</a></td>
+    <td>- Краткие разборы статистических понятий и методов (In progress...)</td>
   </tr>
    <tr>
-    <td><a href="ссылка на проект">Алгоритмы</a></td>
-    <td>- In progress...</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Алгоритмы</a></td>
+    <td>- Быстрый разбор популярных алгоритмов на языке Python (In progress...)</td>
   </tr>
 </table>
 
