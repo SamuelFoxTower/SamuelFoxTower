@@ -114,9 +114,7 @@ Here are some ideas to get you started:
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Построение модели определения стоимости автомобиля</a></td>
     <td>- Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
   </tr>
-  <tr>
-    <td colspan="2">Регрессия</td>
-  </tr>
+  <th>Регрессия</th>
   <tr>
     <td colspan="2">Промышленность</td>
   </tr>
@@ -128,9 +126,7 @@ Here are some ideas to get you started:
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Исследование технологического процесса очистки золота</a></td>
     <td>- Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
   </tr>
-  <tr>
-    <td colspan="2">Тренировка</td>
-  </tr>
+<th>Тренировка</th>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Парсинг данных (обучение)</a></td>
     <td>- Парсинг сайта интренет-магазина</td>
@@ -139,9 +135,7 @@ Here are some ideas to get you started:
     <td><a href="ссылка на проект">Практика SQL (sql-ex.ru), Practicum</a></td>
     <td>- (In progress...)</td>
   </tr>
-  <tr>
-    <td colspan="2">Обучающие cheat-sheets</td>
-  </tr>
+<th>Обучающие cheat-sheets</th>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Статистика</a></td>
     <td>- Краткие разборы статистических понятий и методов<br> (In progress...)</td>
