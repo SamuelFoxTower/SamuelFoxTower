@@ -128,7 +128,7 @@ Here are some ideas to get you started:
     <td>- На основе данных геологии разведки выбрать район добычи нефти</td>
   </tr>
   <tr>
-    <td><a href="ссылка на проект">Исследование технологического процесса очистки золота</a></td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Исследование технологического процесса очистки золота</a></td>
     <td>- Описание проекта</td>
   </tr>
   <tr>
