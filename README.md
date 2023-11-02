@@ -129,7 +129,7 @@ Here are some ideas to get you started:
   </tr>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Исследование технологического процесса очистки золота</a></td>
-    <td>- Описание проекта</td>
+    <td>- Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
   </tr>
   <tr>
     <td colspan="2">Тренировка</td>
