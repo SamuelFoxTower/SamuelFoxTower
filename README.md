@@ -108,14 +108,14 @@ Here are some ideas to get you started:
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS">Обучающий ноутбук решения задачи классификации оттока клиентов</a></td>
     <td>- Данная задача проверялась другими студентами и была выполнена таким образом, чтобы дать возможность посмотреть и подчерпнуть методы хорошей и понятной реализации решения задачи</td>
   </tr>
-  <tr>
+  <th>Регрессия</th>
+    <tr>
     <td colspan="2">Интернет-сервисы и магазины</td>
   </tr>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Построение модели определения стоимости автомобиля</a></td>
     <td>- Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
   </tr>
-  <th>Регрессия</th>
   <tr>
     <td colspan="2">Промышленность</td>
   </tr>
