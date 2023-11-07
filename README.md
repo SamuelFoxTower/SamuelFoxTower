@@ -20,7 +20,7 @@ Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git
 - I am a fan of technology and new technologies, I am going to the level when I myself will create breakthrough and useful technologies
 - I actively use ChatGPT + AIPRM, AWSCodewhisperer to automate routine tasks,
 as well as exploring new approaches
-- I am actively studying and creating projects on Arduino and plan to implement my knowledge into projects</pre>
+- I am actively studying and creating projects on Arduino and plan to implement my knowledge into projects</pre></p>
 
 - I have studied and applied many technologies in my projects
 - Mastering the mathematical basis of machine and deep learning
