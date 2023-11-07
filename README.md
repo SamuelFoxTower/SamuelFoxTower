@@ -31,8 +31,8 @@ as well as exploring new approaches
 - In my solutions, I have always tried to find new ways to optimize the process of studying data
 and building models with high quality
 
-# Projects
-## Machine Learning
+### Projects
+#### Machine Learning
 <table>
   <th>Classification</th>
   <tr>
