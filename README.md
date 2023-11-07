@@ -11,7 +11,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 <h4 style="text-align: center;">Core skills:</h4>
-Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
+Python, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, SQL, Git, Jupyter</p>
 
 <h4 style="text-align: center;">About me</h4>
 <p>I am a Data Scientist with experience in data analysis and Python development  
