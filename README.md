@@ -1,3 +1,7 @@
+### Вопрос: по поводу репозитория с портфолио, можно ли оставить его на русском или лучше переделать также под английский?
+Имеет ли смысл оставлять мои чит-шиты, которые в работе или лучше убрать?
+
+
 ### ![](https://komarev.com/ghpvc/?username=SamuelFoxTower&style=plastic&label=profile+views&color=green)
 
 <!DOCTYPE html>
