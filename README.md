@@ -17,7 +17,7 @@ Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git
 <p>I am a Data Scientist with experience in data analysis and Python development  
 <pre>- My passion is data, identifying patterns and correlations
 - Huge interest in many areas of life, which is why this profession was chosen!
-- I am a fan of technology and new technologies, I am going to the level when I myself will create breakthrough and useful technologies
+- I am a fan of technology and new technologies,<br> I am going to the level when I myself will create breakthrough and useful technologies
 - I actively use ChatGPT + AIPRM, AWSCodewhisperer to automate routine tasks,
 as well as exploring new approaches
 - I am actively studying and creating projects on Arduino and plan to implement my knowledge into projects</pre></p>
