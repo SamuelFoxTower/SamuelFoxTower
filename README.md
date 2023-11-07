@@ -26,7 +26,6 @@ Python, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, SQL, Git
 - I have studied and applied many technologies in my projects
 - Mastering the mathematical basis of machine and deep learning
 - Solved many Classification and Regression problems
-- Worked with Python (pandas, numpy, scikit-learn, torch, matplotlib...), SQL
 - Experience in deep learning (CV, NLP)
 - The projects are in [portfolio](https://github.com/SamuelFoxTower/Portfolio/tree/main/) below, with a description of the tasks and my solution option
 - In my solutions, I have always tried to find new ways to optimize the process of studying data
