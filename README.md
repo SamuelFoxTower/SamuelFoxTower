@@ -12,8 +12,9 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 <h4 style="text-align: center;">Ключевые навыки:</h4>
 Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
+<a class="navbar-brand" href="."><img alt="" src="static/img/pandas_white.svg"></a>
 <img alt="pandas" src="static/img/pandas_white.svg">
-
+</a>
 
 <h4 style="text-align: center;">Обо мне</h4>
 <p>Я Data Scientist с опытом работы в области анализа данных и разработки на Python   
