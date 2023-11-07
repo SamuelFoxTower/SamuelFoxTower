@@ -7,99 +7,95 @@
 </head>
 <body>
 
-<h3 style="text-align: center;">Привет! Меня зовут Александр!</h3>
+<h3 style="text-align: center;">Hi! My name is Alexander!</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
-<h4 style="text-align: center;">Ключевые навыки:</h4>
+<h4 style="text-align: center;">Core skills:</h4>
 Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
-<a class="navbar-brand" href="."><img alt="" src="static/img/pandas_white.svg"></a>
-<img alt="pandas" src="static/img/pandas_white.svg">
-</a>
 
-<h4 style="text-align: center;">Обо мне</h4>
-<p>Я Data Scientist с опытом работы в области анализа данных и разработки на Python   
-<pre>- Моя страсть — данные, выявление паттернов и корреляций
-- Огромный интерес во множестве областей жизни, именно по этому была выбрана эта профессия!
-- Фанат техники и новых технологий, иду к уровню, когда и сам буду создавать прорывные и полезные технологии
-- В работе активно использую ChatGPT + AIPRM, AWSCodewhisperer для автоматизации рутинных задач, 
-  а также изучения новых подходов
-- Я активно изучаю и создаю проекты на Arduino и планирую внедрять свои знания в проекты</pre>
+<h4 style="text-align: center;">About me</h4>
+<p>I am a Data Scientist with experience in data analysis and Python development  
+<pre>- My passion is data, identifying patterns and correlations
+- Huge interest in many areas of life, which is why this profession was chosen!
+- I am a fan of technology and new technologies, I am going to the level when I myself will create breakthrough and useful technologies
+- I actively use ChatGPT + AIPRM, AWSCodewhisperer to automate routine tasks,
+as well as exploring new approaches
+- I am actively studying and creating projects on Arduino and plan to implement my knowledge into projects</pre>
 
-- Изучил и применял множество технологий в своих проектах
-- Осваиваю математическую основу машинного и глубокого обучения
-- Решал множество задач Классификации, Регрессии
-- Работал с Python (pandas, numpy, scikit-learn, torch, matplotlib ...), SQL
-- Опыт в области глубокого обучения (CV, NLP)
-- Учебные проекты находятся в [портфолио](https://github.com/SamuelFoxTower/Portfolio/tree/main/) ниже, с описанием задач и моим вариантом решения
-- В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных 
-  и построения моделей с высоким качеством
+- I have studied and applied many technologies in my projects
+- Mastering the mathematical basis of machine and deep learning
+- Solved many Classification and Regression problems
+- Worked with Python (pandas, numpy, scikit-learn, torch, matplotlib...), SQL
+- Experience in deep learning (CV, NLP)
+- The projects are in [portfolio](https://github.com/Samuel Fox Tower/Portfolio/tree/main/) below, with a description of the tasks and my solution option
+- In my solutions, I have always tried to find new ways to optimize the process of studying data
+and building models with high quality
 
-# Проекты
-## Машинное обучение
+# Projects
+## Machine Learning
 <table>
-  <th>Классификация</th>
+  <th>Classification</th>
   <tr>
-    <td colspan="2">Обработка текста с BERT</td>
+    <td colspan="2">Text processing with BERT</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments">Обучение модели классификации комментариев</a></td>
-    <td>- Определение токсичности комментариев</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/сlassification-comments">Training the comment classification model</a></td>
+    <td>- Determination of the toxicity of comments</td>
   </tr>
   <tr>
-    <td colspan="2"><font size="4">Телекоммуникации</font></td>
+    <td colspan="2"><font size="4">Telecommunications</font></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Прогноз оттока клиентов телеком компании</a></td>
-    <td>- По персональным данным некоторых клиентов, информации о тарифе и договорах научиться прогнозировать отток клиентов</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/churn_telecom">Forecast of outflow of telecom company customers</a></td>
+    <td>- According to the personal data of some customers, information about the tariff and contracts, learn to predict the outflow of customers</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS">Обучающий ноутбук решения задачи классификации оттока клиентов</a></td>
-    <td>- Данная задача проверялась другими студентами и была выполнена таким образом, чтобы дать возможность посмотреть и подчерпнуть методы хорошей и понятной реализации решения задачи</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/churn_telecom_DLS">Training notebook for solving the problem of classifying customer churn</a></td>
+    <td>- This task was tested by other students and was performed in such a way as to give an opportunity to look at and learn the methods of a good and understandable implementation of the solution of the problem</td>
   </tr>
-  <th>Регрессия</th>
+  <th>Regression</th>
     <tr>
-    <td colspan="2">Интернет-сервисы и магазины</td>
+    <td colspan="2">Online services and stores</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Построение модели определения стоимости автомобиля</a></td>
-    <td>- Разработка системы рекомендации стоимости автомобиля на основе его описания</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/main/determining-cost-cars">Building a model for determining the cost of a car</a></td>
+    <td>- Development of a system for recommending the cost of a car based on its description</td>
   </tr>
   <tr>
-    <td colspan="2">Промышленность</td>
+    <td colspan="2">Industry</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/well-locations">Определение наиболее выгодного региона нефтедобычи</a></td>
-    <td>- На основе данных геологии разведки выбрать район добычи нефти</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/well-locations">Determining the most profitable oil production region</a></td>
+    <td>- Based on the geological exploration data, select an oil production area</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Исследование технологического процесса очистки золота</a></td>
-    <td>- Спрогнозировать концентрацию золота при проведении процесса очистки золота</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/recovery-gold">Investigation of the technological process of gold purification</a></td>
+    <td>- Predict the concentration of gold during the gold purification process</td>
   </tr>
-<th>Тренировка</th>
+<th>Training</th>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Парсинг данных (обучение)</a></td>
-    <td>- Парсинг сайта интренет-магазина</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/pars-examples">Data pars (training)</a></td>
+    <td>- Pars the website of an online store</td>
   </tr>
   <tr>
-    <td><a href="ссылка на проект">Практика SQL (sql-ex.ru), Practicum</a></td>
+    <td><a href="ссылка на проект">SQL Practice (sql-ex.ru), Practicum</a></td>
     <td>- (In progress...)</td>
   </tr>
-<th>Обучающие cheat-sheets</th>
+<th>Educational cheat sheets/th>
   <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Статистика</a></td>
-    <td>- Краткие разборы статистических понятий и методов<br> (In progress...)</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Statistics</a></td>
+    <td>- Brief analysis of statistical concepts and methods<br> (In progress...)</td>
   </tr>
    <tr>
-    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Алгоритмы</a></td>
-    <td>- Быстрый разбор популярных алгоритмов на языке Python и решение LeetCode<br> (In progress...)</td>
+    <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/algorithms">Algorithms</a></td>
+    <td>- Quick analysis of popular Python algorithms and LeetCode solution<br> (In progress...)</td>
   </tr>
 </table>
 
-<h3 style="text-align: center;">Связь</h3>
-<p>📫 Для связи со мной:<br> 
-    <p>- Почта: aleksand.vorobyov.ex@gmail.com<br> 
+<h3 style="text-align: center;">Contact me</h3>
+    <p>- Mail: aleksand.vorobyov.ex@gmail.com<br> 
     - Telegram: https://t.me/lambda_y<br></p>
-<p>⚡ Открыт к сотрудничеству и новым проектам!
+<p>⚡ I am open to cooperation and new projects!
 
 </body>
 </html>
