@@ -21,33 +21,20 @@ Here are some ideas to get you started:
 </head>
 <body>
 
-<h1 style="text-align: center;">Воробьев Александр</h1>
+<h1 style="text-align: center;">Привет! Меня зовут Александр!</h1>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
 
 <h2 style="text-align: center;">Обо мне</h2>
-<p>Привет! 
-<p>Меня зовут Александр  
 <p>Я Data Scientist с опытом работы в области анализа данных и разработки на Python   
 <p>Моя страсть - это работа с данными, выявление паттернов и корреляций, а также разработка моделей для решения сложных задач  
-<h2 style="text-align: center;">Резюме</h2>
 
-<p>Желаемая должность: Data Scientist<br>
-Специализации: Дата-сайентист, Аналитик, Пайтон-разработчик</p>  
-Занятость: полная занятость<br>
-График работы: полный день, гибкий график, удаленная работа<br></p>
+<h3 style="text-align: center;">Ключевые навыки</h3>
+<p>Языки: Русский (родной), Английский<br>
+Навыки: Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
 
-<h3 style="text-align: center;">Опыт работы</h3>
-
-<h4 style="text-align: center;">Deep Learning School (продвинутый поток): Студент</h4>
-<font size="6">Сентябрь 2023 — настоящее время</font></p> 
-<pre>- Освоение серьезной математической основы машинного и глубокого обучения
-- Помощь другим студентам с помощью инструментов платформы Stepik 
-  с хорошим представлением и подробным описанием работ</pre>
-
-<h4 style="text-align: center;">Яндекс Практикум: Студент</h4>
-Декабрь 2022 — Август 2023</p>
 <pre>- Изучил и применял множество технологий в своих проектах
+  <pre>- Осваиваю математическую основу машинного и глубокого обучения
 - Решал множество задач Классификации, Регрессии
 - Работал с Python (pandas, numpy, scikit-learn, torch, matplotlib ...), SQL
 - Опыт в области глубокого обучения (CV, NLP)
@@ -55,16 +42,6 @@ Here are some ideas to get you started:
 - В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных 
   и построения моделей с высоким качеством</pre>
 
-<h4 style="text-align: center;">IKEA: Store Equipment Coordinator</h4>
-Июль 2019 — Август 2022</p>
-<pre>- Координация поставок и использования торгового оборудования в магазине, 
-  в том числе внедрение новых систем и работа с поставщиками
-- Активное участие в проектах IT департамента</pre>
-
-<h3 style="text-align: center;">Образование и Повышение квалификации</h3>
-<h4 style="text-align: center;">Среднее специальное: Ростовский-на-Дону строительный колледж</h4>
-2017: Проектирование, строительство, монтаж, эксплуатация внутренних сантехустройств,<br> 
-вентиляции и кондиционирования воздуха</p>
 
 **Курсы**:<br>
 - Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
@@ -75,10 +52,6 @@ Here are some ideas to get you started:
   - Data Science 
 - Tools for Data Science [(IBM, Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)<br>
   - Data Science
-
-<h3 style="text-align: center;">Ключевые навыки</h3>
-<p>Языки: Русский (родной), Английский<br>
-Навыки: Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
 
 <h3 style="text-align: center;">Портфолио</h3>
 В моем портфолио на GitHub представлены проекты и их решения,<br> 
