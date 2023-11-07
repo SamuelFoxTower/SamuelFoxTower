@@ -81,7 +81,7 @@ and building models with high quality
     <td><a href="ссылка на проект">SQL Practice (sql-ex.ru), Practicum</a></td>
     <td>- (In progress...)</td>
   </tr>
-<th>Educational cheat sheets/th>
+<th>Educational cheat sheets</th>
   <tr>
     <td><a href="https://github.com/SamuelFoxTower/Portfolio/tree/master/statistic">Statistics</a></td>
     <td>- Brief analysis of statistical concepts and methods<br> (In progress...)</td>
@@ -93,8 +93,7 @@ and building models with high quality
 </table>
 
 <h3 style="text-align: center;">Contact me</h3>
-    <p>- ✉️ Mail: aleksand.vorobyov.ex@gmail.com<br> 
-<img align="left" alt="telegram" width="26px" src="https://icons8.ru/icon/lUktdBVdL4Kb/телеграм  />
+    <p>- Mail: aleksand.vorobyov.ex@gmail.com<br> 
     - Telegram: https://t.me/lambda_y<br></p>
 <p>⚡ I am open to cooperation and new projects!
 
