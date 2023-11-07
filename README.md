@@ -10,9 +10,7 @@
 <h3 style="text-align: center;">Привет! Меня зовут Александр!</h3>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
-<h4 style="text-align: center;">Ключевые навыки</h4>
-
-Навыки: Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
+<h4 style="text-align: center;">Ключевые навыки:</h4>Python, SQL, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, Git, Jupyter</p>
 
 <h4 style="text-align: center;">Обо мне</h4>
 <p>Я Data Scientist с опытом работы в области анализа данных и разработки на Python   
@@ -31,23 +29,6 @@
 - Учебные проекты находятся в [портфолио](https://github.com/SamuelFoxTower/Portfolio/tree/main/) ниже, с описанием задач и моим вариантом решения
 - В своих решениях всегда старался находить новые возможности оптимизации процесса изучения данных 
   и построения моделей с высоким качеством
-
-
-**Курсы**:<br>
-- Специалист Data Science (Яндекс Практикум, 2023) [RUS](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_ru.pdf) / [ENG](https://github.com/SamuelFoxTower/SamuelFoxTower/blob/main/certificate/Practicum_en.pdf)<br>
-  - Data Science
-- WEB Парсинг на Python (Stepik, 2023) [RUS](https://stepik.org/cert/2041068) / [ENG](https://stepik.org/cert/2041068?lang=en)<br>
-  - Скрапинг, обработка, анализ данных
-- What is Data Science? [(IBM, Coursera, 2022)](https://coursera.org/share/f8ce69265fa3daa54e5b056d427e49b4)<br>
-  - Data Science 
-- Tools for Data Science [(IBM, Coursera, 2022)](https://coursera.org/share/c05022eca89293bc484b36f5d0cadc64)<br>
-  - Data Science
-
-<h3 style="text-align: center;">Портфолио</h3>
-В моем портфолио на GitHub представлены проекты и их решения,<br> 
-которые я выполнил во время обучения и в рабочем опыте</p>  
-Проекты охватывают различные области и демонстрируют мои навыки в анализе данных,<br>  
-машинном обучении, обработке информации и менторстве</p>  
 
 # Проекты
 ## Машинное обучение
@@ -112,7 +93,7 @@
 
 <h3 style="text-align: center;">Связь</h3>
 <p>📫 Для связи со мной:<br> 
-    <p>- Почта: sasha33z@yandex.ru<br> 
+    <p>- Почта: aleksand.vorobyov.ex@gmail.com<br> 
     - Telegram: https://t.me/lambda_y<br></p>
 <p>⚡ Открыт к сотрудничеству и новым проектам!
 
