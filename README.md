@@ -93,7 +93,8 @@ and building models with high quality
 </table>
 
 <h3 style="text-align: center;">Contact me</h3>
-    <p>- Mail: aleksand.vorobyov.ex@gmail.com<br> 
+    <p>- ✉️ Mail: aleksand.vorobyov.ex@gmail.com<br> 
+<img align="left" alt="telegram" width="26px" src="https://icons8.ru/icon/lUktdBVdL4Kb/телеграм  />
     - Telegram: https://t.me/lambda_y<br></p>
 <p>⚡ I am open to cooperation and new projects!
 
