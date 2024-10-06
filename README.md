@@ -9,12 +9,12 @@
 
 <h3 style="text-align: center;">🖖🏼Hi! My name is Alexander!</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Scientist+%2F+Python+Developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=inconsolata&pause=1000&color=09A708&center=true&vCenter=true&random=false&width=435&lines=Data+Analyst+%2F" alt="Typing SVG" /></a>
 <h4 style="text-align: center;">Core skills:</h4>
 Python, Asyncio, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, SQL, Git, Jupyter</p>
 
 <h4 style="text-align: center;">About me</h4>
-<p>I am a Data Scientist with experience in data analysis and Python development  
+<p>I am a Analyst with experience in data science and python development  
 <pre>- My passion is data, identifying patterns and correlations
 - Huge interest in many areas of life, which is why this profession was chosen!
 - I am a fan of technology and new technologies, 
