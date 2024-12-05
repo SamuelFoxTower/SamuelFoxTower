@@ -9,7 +9,7 @@
 
 <h3 style="text-align: center;">🖖🏼Hi! My name is Alexander!</h3>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coda&pause=1000&color=0A7E20&width=750&lines=Data+Scientist+%2F+Data+Analyst" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Coda&pause=1000&color=0A7E20&width=850&lines=Data+Scientist+%2F+Data+Analyst" alt="Typing SVG" /></a>
 <h4 style="text-align: center;">Core skills:</h4>
 Python, Asyncio, BeautifulSoup4, Pandas, Numpy, Matplotlib, Scikit-learn, Torch, SQL, Git, Jupyter</p>
 
